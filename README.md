@@ -1,4 +1,4 @@
- # **Shadrack Gicheru**  
+# **Shadrack Gicheru**  
 ![Profile Views](https://komarev.com/ghpvc/?username=Shakha12&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/followers/Shakha12?style=flat-square&color=green)
 
 **Full Stack Developer | Data Scientist | AI & ML Enthusiast**
@@ -7,6 +7,12 @@
 
 ### 🌟 **About Me**
 Hello! I'm Shadrack Gicheru, a passionate software engineer and storyteller. My journey started with the ALX Software Engineering Program, and today, I focus on blending **science, technology, and storytelling** to inspire and lead human advancement. I love to build impactful solutions that help individuals, businesses, and brands unlock their full potential.
+
+---
+
+### 🚀 **My Mission**
+_"I want to build things and tell stories, helping individuals, businesses, and brands unlock their full potential, acquire sustainable peak performance, and lead the way in human advancement by leveraging science, technology, and storytelling."_  
+I'm passionate about combining technology with creativity to generate practical and innovative solutions for real-world challenges.
 
 ---
 
@@ -39,7 +45,7 @@ Hello! I'm Shadrack Gicheru, a passionate software engineer and storyteller. My 
 ### 📂 **Pinned Projects**
 
 [![Market Iris](https://github-readme-stats.vercel.app/api/pin/?username=Shakha12&repo=market-iris&theme=radical)](https://github.com/Shakha12/market-iris)
-[![Tennis Club Management System](https://github-readme-stats.vercel.app/api/pin/?username=Shakha12&repo=tennis-club-management&theme=radical)](https://github.com/Shakha12/tennis-club-management)
+[![AirBnB Clone](https://github-readme-stats.vercel.app/api/pin/?username=Shakha12&repo=AirBnB_clone&theme=radical)](https://github.com/Shakha12/AirBnB_clone)
 [![Auto-Insight](https://github-readme-stats.vercel.app/api/pin/?username=Shakha12&repo=auto-insight&theme=radical)](https://github.com/Shakha12/auto-insight)
 
 ---
@@ -58,11 +64,11 @@ A data visualization platform that provides insights into vehicle sales, showcas
 - **Technologies:** Python, D3.js, PostgreSQL
 - **Features:** Dynamic sales analysis, interactive charts, predictive analytics
 
-#### **🎾 Tennis Club Management System**
-A Django-based system for managing player data, tournament schedules, and club operations.  
+#### **🏡 AirBnB Clone**
+A simplified clone of the AirBnB website, showcasing user management, property listing, and reservation features.  
 *Roles: Full Stack Developer*  
-- **Technologies:** Django, JavaScript, Bootstrap, PostgreSQL
-- **Features:** User management, tournament scheduling, responsive design
+- **Technologies:** Python, MySQL, Flask
+- **Features:** User authentication, property listings, dynamic search and filters
 
 ---
 
@@ -96,4 +102,3 @@ A Django-based system for managing player data, tournament schedules, and club o
 I believe technology and storytelling together can shape the future! When I’m not coding, you can find me exploring the latest trends in AI and creative storytelling.
 
 ---
-
