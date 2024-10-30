@@ -11,7 +11,7 @@ Hello! I'm Shadrack Gicheru, a passionate software engineer and storyteller. My 
 ---
 
 ### 🚀 **My Mission**
-_"I want to build things and tell stories, helping individuals, businesses, and brands unlock their full potential, acquire sustainable peak performance, and lead the way in human advancement by leveraging science, technology, and storytelling."_  
+_"I love ideas and I love stories. I want to build things and tell stories in the most intelligent way, helping innovators (individuals, businesses and brands) unlock full potential, achieve sustainable peak performance, embody and lead the way in human advancement by leveraging science, technology and storytelling using: Machine learning and AI, Data Science, Full Stack Software Engineering, Marketing, Communications and Content Creation."_  
 I’m passionate about combining technology with creativity to deliver practical, innovative solutions for real-world challenges.
 
 ---
